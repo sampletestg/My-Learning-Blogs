@@ -1,21 +1,6 @@
-# Test Blog Post
+# My Blog
 
-## Introduction
-This is a test markdown file for learning purposes.
+## Posts
 
-## Section One
-Here's some sample content with **bold text** and *italic text*.
-
-## Code Example
-```python
-def hello_world():
-    print("Hello, World!")
-```
-
-## List Example
-- Item 1
-- Item 2
-- Item 3
-
-## Conclusion
-This is a basic markdown template for testing.
+- [My First Blog](posts/my-blog-1.md)
+- [My Second Blog](posts/my-blog-2.md)
